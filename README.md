@@ -50,6 +50,12 @@ Latest
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
+## Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=plastic&logo=Telegram&logoColor=White)](https://t.me/@Serieznee_nekuda)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-3471B7?style=plastic&logo=linkedin&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:danil.boghatov17l@gmail.com)
+[![Yandex Mail](https://img.shields.io/badge/Yandex%20Mail-FF0000?style=plastic&logo=yandex&logoColor=white)](mailto:danil.boghatov17@yandex.ru)
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=plastic&logo=headhunter&logoColor=white)](https://hh.ru/profile/ваш-id)
 
-
-Follow me
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serieznee-nekuda17&show_icons=true)](https://github.com/Serieznee-nekuda17/github-readme-stats) 
