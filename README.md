@@ -6,7 +6,6 @@
 Для меня важно не просто писать код, а разбираться, зачем он нужен — в этом вижу ключ к росту. Работал с реальными проектами на обучении, привык к коду в команде, Pull Request'ам и отзывам ревьюеров.
 
 Сейчас ищу возможность применить свои навыки на практике и продолжать расти как разработчик в продуктивной команде.
-Latest
 
 ## 🧰 Мой стек технологий
 
@@ -25,6 +24,8 @@ Latest
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-cc0000?style=plastic&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-3F4441?style=plastic&logo=alembic&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white)
 
 ### 🧪 Тестирование
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=plastic)
@@ -51,11 +52,13 @@ Latest
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ## Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=plastic&logo=Telegram&logoColor=White)](https://t.me/@Serieznee_nekuda)
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=plastic&logo=Telegram&logoColor=White)](https://t.me/Serieznee_nekuda)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-3471B7?style=plastic&logo=linkedin&logoColor=white)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:danil.boghatov17l@gmail.com)
 [![Yandex Mail](https://img.shields.io/badge/Yandex%20Mail-FF0000?style=plastic&logo=yandex&logoColor=white)](mailto:danil.boghatov17@yandex.ru)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=plastic&logo=headhunter&logoColor=white)](https://hh.ru/profile/ваш-id)
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serieznee-nekuda17&show_icons=true)](https://github.com/Serieznee-nekuda17/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serieznee-nekuda17&show_icons=true&theme=dark)](https://github.com/Serieznee-nekuda17/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serieznee-nekuda17&layout=compact&theme=dark)](https://github.com/Serieznee-nekuda17/github-readme-stats)
