@@ -90,9 +90,7 @@
 - 🛡 Устойчив к сбоям API и сети
 - 📊 Логирует ключевые события и ошибки
 ---
-### 📰 [blogicum](https://github.com/Serieznee-nekuda17/blogicum)
-
-**blogicum** — полнофункциональная блог-платформа с публикациями, комментариями и управлением пользователями.
+### 📰 [blogicum](https://github.com/Serieznee-nekuda17/blogicum) — полнофункциональная блог-платформа с публикациями, комментариями и управлением пользователями.
 
 **🛠️ Стек:** Python · Django · SQLite · Bootstrap 5 · HTML/CSS
 
