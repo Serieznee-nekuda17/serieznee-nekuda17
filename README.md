@@ -131,7 +131,7 @@
 
 ## Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=plastic&logo=Telegram&logoColor=White)](https://t.me/Serieznee_nekuda)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:danil.boghatov17l@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:danil.boghatov17@gmail.com)
 [![Yandex Mail](https://img.shields.io/badge/Yandex%20Mail-FF0000?style=plastic&logo=yandex&logoColor=white)](mailto:danil.boghatov17@yandex.ru)
 [![HeadHunter](https://img.shields.io/badge/HeadHunter-FF6600?style=plastic&logo=headhunter&logoColor=white)](https://hh.ru/resume/8a2939f1ff0f3429a10039ed1f67724a38726e)
 
